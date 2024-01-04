@@ -1,1 +1,0 @@
-"# Calculator-PROJECT"  initgit add README.mdgit commit -m "first commit"git branch -M maingit remote add origin https://github.com/CodeCRAFT-rk/Calculator-PROJECT.gitgit push -u origin main
